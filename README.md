@@ -79,7 +79,7 @@ Logic symbol & Truthtable
 RTL realization
 Output:
 RTL
-![image](https://user-images.githubusercontent.com/118367518/209636180-34aabaab-cd0a-4b1a-83ed-79f1753ef81e.png)
+![image](https://user-images.githubusercontent.com/118367518/209637474-52330f35-5f21-44bd-9c2f-5260209ef12c.png)
 
 
 Result:
